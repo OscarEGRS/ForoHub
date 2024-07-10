@@ -1,0 +1,10 @@
+com\ejemplo\ForoHub\modelo\Usuario.class
+com\ejemplo\ForoHub\servicio\TopicoServicio.class
+com\ejemplo\ForoHub\ForoHubApplication.class
+com\ejemplo\ForoHub\repositorio\UsuarioRepositorio.class
+com\ejemplo\ForoHub\controlador\TopicoControlador.class
+com\ejemplo\ForoHub\repositorio\TopicoRepositorio.class
+com\ejemplo\ForoHub\modelo\Topico.class
+com\ejemplo\ForoHub\config\SecurityConfig.class
+com\ejemplo\ForoHub\controlador\UsuarioControlador.class
+com\ejemplo\ForoHub\servicio\UsuarioServicio.class
